@@ -1,5 +1,5 @@
 {
-    "name": "phoenixseo/die-eisschleckerei",
+    "name": "phoenixseo/hades-haustierurnen",
     "description": "Project template for Drupal 8 projects with composer",
     "type": "project",
     "license": "GPL-2.0-or-later",
@@ -64,7 +64,8 @@
         "drupal/token": "^1",
         "drupal/imageapi_optimize_resmushit": "^2",
         "drupal/blazy": "^2",
-        "drupal/imageapi_optimize": "^4"
+        "drupal/imageapi_optimize": "^4",
+        "drupal/address": "^1"
     },
     "conflict": {
         "drupal/drupal": "*"
@@ -127,5 +128,5 @@
             ]
         }
     },
-    "homepage": "https://die-eisschleckerei.de"
+    "homepage": "https://hades-haustierurnen.de"
 }
