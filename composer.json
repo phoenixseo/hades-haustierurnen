@@ -65,7 +65,8 @@
         "drupal/imageapi_optimize_resmushit": "^2",
         "drupal/blazy": "^2",
         "drupal/imageapi_optimize": "^4",
-        "drupal/address": "^1"
+        "drupal/address": "^1",
+        "drupal/search_api": "^1"
     },
     "conflict": {
         "drupal/drupal": "*"
